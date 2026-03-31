@@ -48,20 +48,6 @@ Please make sure to read the [Issue Reporting Checklist](https://github.com/Unit
 
 With official support, you can get expert help straight from the Nest core team. We provide dedicated technical support, migration strategies, advice on best practices (and design decisions), PR reviews, and team augmentation. Read more about [support here](https://enterprise.nestjs.com).
 
-## Support
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support from the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-#### Principal Sponsors
-
-<table style="text-align:center;">
-<tr>
-<td><a href="https://trilon.io" target="_blank"><img src="https://nestjs.com/img/trilon.svg" width="200" valign="middle" /></a></td>
-<td><a href="https://microsoft.com/" target="_blank"><img src="https://nestjs.com/img/logos/microsoft-logo.png" width="180" valign="middle" /></a></td>
-<td><a href="https://mojam.co" target="_blank"><img src="https://nestjs.com/img/logos/mojam-logo.png" width="80" valign="middle" /></a></td>
-<td><a href="https://valor-software.com/" target="_blank"><img src="https://docs.nestjs.com/assets/sponsors/valor-software.png" width="170" valign="middle" /></a></td>
-<td><a href="https://serpapi.com/" target="_blank"><img src="https://nestjs.com/img/logos/serpapi-logo.png" width="150" valign="middle" /></a></td>
-</tr>
-</table>
 
 
