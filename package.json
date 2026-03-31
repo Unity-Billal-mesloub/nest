@@ -71,7 +71,7 @@
     "iterare": "1.2.1",
     "load-esm": "1.0.3",
     "object-hash": "3.0.0",
-    "path-to-regexp": "8.4.0",
+    "path-to-regexp": "8.4.1",
     "reflect-metadata": "0.2.2",
     "rxjs": "7.8.2",
     "socket.io": "4.8.3",
@@ -111,8 +111,8 @@
     "@types/sinon": "21.0.0",
     "@types/supertest": "7.2.0",
     "@types/ws": "8.18.1",
-    "@typescript-eslint/eslint-plugin": "8.57.2",
-    "@typescript-eslint/parser": "8.57.2",
+    "@typescript-eslint/eslint-plugin": "8.58.0",
+    "@typescript-eslint/parser": "8.58.0",
     "amqp-connection-manager": "5.0.0",
     "amqplib": "1.0.2",
     "body-parser": "2.2.2",
@@ -168,7 +168,7 @@
     "ts-node": "10.9.2",
     "typeorm": "0.3.28",
     "typescript": "5.9.3",
-    "typescript-eslint": "8.57.2",
+    "typescript-eslint": "8.58.0",
     "ws": "8.20.0"
   },
   "engines": {
