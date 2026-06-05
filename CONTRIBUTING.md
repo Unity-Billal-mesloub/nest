@@ -113,7 +113,7 @@ We cannot accept code without this.
    git push origin my-fix-branch
    ```
 
-1. In GitHub, send a pull request to `nestjs:master`.
+1. In GitHub, send a pull request to `nestjs:main`.
 
 - If we suggest changes then:
 
@@ -142,7 +142,7 @@ from the main (upstream) repository:
 - Check out the master branch:
 
   ```shell
-  git checkout master -f
+  git checkout main -f
   ```
 
 - Delete the local branch:
@@ -154,7 +154,7 @@ from the main (upstream) repository:
 - Update your master with the latest upstream version:
 
   ```shell
-  git pull --ff upstream master
+  git pull --ff upstream main
   ```
 
 ## <a name="development"></a> Development Setup
